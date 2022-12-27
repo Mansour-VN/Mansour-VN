@@ -19,9 +19,6 @@
       src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=f4f4f4&logo=gmail&logoColor=D14836&link=mailto:Pirouz.vn@gmail.com/"></a>
   <a href="https://www.linkedin.com/in/mansour%D9%80vn/"><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&labelColor=f4f4f4&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/erfan-malakouti/"></a>
-  <a href="wa.link/s9yvhl"><img
-      src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&labelColor=f4f4f4&logo=whatsapp&logoColor=25D366&link=https://
-        wa.link/s9yvhl"></a>
   <a href="https://www.instagram.com/mansour.vn/"><img
       src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=f4f4f4&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/mansour.vn/"></a>
 </p>

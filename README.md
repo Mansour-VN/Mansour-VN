@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Ask me about React , Sass , Bootstrap , Tailwind , Material UI**
+- 💬 Ask me about **React , Sass , Bootstrap , Tailwind , Material UI**
 
 - 📫 How to reach me **Pirouz.vn@gmail.com**
 

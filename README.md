@@ -3,9 +3,6 @@
 Frontend Developer | React, Next.js & TypeScript
 </h3>
 
-<img align="right" alt="Coding" width="380"
-src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Mansour-VN&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
